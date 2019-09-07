@@ -43,4 +43,4 @@ label: mannually delineated (time-consuming but important)
 
   input: the learned net parameters & image pairs
   
-  output: the building change map (pixel-to-pixel)
+  output: the building change map (end-to-end)
